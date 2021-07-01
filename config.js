@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'hello bạn nhé!',
-    introDesc: 'Tình yêu của em là biển rộng
+    introDesc: `Tình yêu của em là biển rộng
     Anh như con thuyền nhỏ 
     Chưa 1 lần ra khơi
     Nói chuyện tiếp chứ',
