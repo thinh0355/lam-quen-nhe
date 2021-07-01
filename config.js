@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'hello chị em là thịnh đây!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích em <33',
-    btnNo: 'Không, em trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'hello bạn nhé!',
+    introDesc: `tình yêu của em là biển rộng
+    anh như con thuyền nhỏ 
+    chưa 1 lần ra khơi
+    Nói chuyện tiếp chứ',
+    btnIntro: 'bắt đầu nào',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'đồng ý choa làm quenn với e nhá <33',
+    btnNo: 'Không, đâu a  à :3',
+    question:'Trên thế giới hơn 7 tỉ người liệu e có muốn nói chuyện cùng anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'đồng ý luốn nhé <33333333',
+    mess: 'Anh biết mà 🥰. thank nhiều nhiều 😘😘',
+    messDesc: 'ib luôn nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //https://www.facebook.com/thinh.thinh02/
 }
